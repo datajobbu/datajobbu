@@ -1,9 +1,29 @@
 ### Hello 👋👋👋
+`Junior Data Analyst` `Junior Backend Developer`
 
 
-🔭 I’m currently working as a data analyst.
+<br/>
 
-🌱 I’m currently learning python, django.
+**SKILLS**
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/JavaScript-E7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><a/>
+
+<br/>
+
+**TOOLS**
+
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><a/>
+
+<br/>
+
 
 
 <!--
