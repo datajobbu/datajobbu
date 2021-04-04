@@ -1,4 +1,5 @@
 ### Hello 👋👋👋
+`산업기능요원(20년 12월 01일 편입)`
 `Junior Data Analyst` `Junior Backend Developer`
 
 
