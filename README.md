@@ -1,6 +1,6 @@
 ### Hello 👋👋👋
 `산업기능요원(20년 12월 01일 편입)`
-`Junior Data Analyst` `Junior iOS Developer`
+`Junior Data Scientist`
 
 
 <br/>
@@ -8,11 +8,7 @@
 **SKILLS**
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-F37626?style=flat-square&logo=Swift&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/JavaScript-E7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/MySQL-336791?style=flat-square&logo=MySQL&logoColor=white"/><a/>
 
 <br/>
 
