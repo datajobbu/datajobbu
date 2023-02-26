@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=DATA JOBBU&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=DATA-JOBBU&fontSize=60"/>
 
 ### Fintech Data Scientist
 - Since Dec 2020
