@@ -1,6 +1,10 @@
-### Hello 👋👋👋
-`Fintech Data Scientist`
-- Since Desc 2021
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
+
+### Fintech Data Scientist
+- Since Dec 2021
+
+### Interest
+- Anything related to data science
 
 
 <br/>
