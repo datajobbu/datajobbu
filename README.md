@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=DATA-JOBBU&fontSize=60"/>
-
-### Fintech Data Scientist
-- Since Dec 2020
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=DATA-JOB-BU&fontSize=60"/>
 
 ### Interest
 - Anything related to data science
